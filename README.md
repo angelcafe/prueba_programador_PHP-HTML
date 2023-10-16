@@ -1,5 +1,5 @@
 # prueba_programador_PHP-HTML
-PRUEBA PROGRAMADOR PHP/HTLM
+PRUEBA PROGRAMADOR PHP/HTML
 
 Realizar una página que:
 
